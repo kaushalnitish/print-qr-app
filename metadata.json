@@ -1,0 +1,6 @@
+{
+  "name": "QR Print Submission",
+  "description": "A simple, login-free mobile-first customer panel to submit print requests instantly by scanning a QR code.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
